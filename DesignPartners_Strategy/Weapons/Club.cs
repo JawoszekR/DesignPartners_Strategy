@@ -1,11 +1,11 @@
-﻿using DesignPartners_Strategy.Characters;
+﻿using DesignPatterns_Strategy.Characters;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DesignPartners_Strategy.Weapons
+namespace DesignPatterns_Strategy.Weapons
 {
     class Club : IWeapon
     {

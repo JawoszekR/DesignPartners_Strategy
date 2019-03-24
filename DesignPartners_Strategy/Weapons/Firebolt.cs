@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using DesignPartners_Strategy.Characters;
+using DesignPatterns_Strategy.Characters;
 
-namespace DesignPartners_Strategy.Weapons
+namespace DesignPatterns_Strategy.Weapons
 {
     class Firebolt : IWeapon
     {

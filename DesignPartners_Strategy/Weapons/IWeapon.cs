@@ -1,6 +1,6 @@
-﻿using DesignPartners_Strategy.Characters;
+﻿using DesignPatterns_Strategy.Characters;
 
-namespace DesignPartners_Strategy.Weapons
+namespace DesignPatterns_Strategy.Weapons
 {
     interface IWeapon
     {

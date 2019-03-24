@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPartners_Strategy", "DesignPartners_Strategy\DesignPartners_Strategy.csproj", "{6A7A63D8-9E17-406B-9FD8-EE5AD3E4DDB3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns_Strategy", "DesignPartners_Strategy\DesignPatterns_Strategy.csproj", "{6A7A63D8-9E17-406B-9FD8-EE5AD3E4DDB3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

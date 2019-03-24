@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{6A7A63D8-9E17-406B-9FD8-EE5AD3E4DDB3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DesignPartners_Strategy</RootNamespace>
-    <AssemblyName>DesignPartners_Strategy</AssemblyName>
+    <RootNamespace>DesignPatterns_Strategy</RootNamespace>
+    <AssemblyName>DesignPatterns_Strategy</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

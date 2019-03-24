@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DesignPartners_Strategy.Characters.HitBehavior
+namespace DesignPatterns_Strategy.Characters.HitBehavior
 {
     class DefoultHitBehavior : IHitBehavior
     {
