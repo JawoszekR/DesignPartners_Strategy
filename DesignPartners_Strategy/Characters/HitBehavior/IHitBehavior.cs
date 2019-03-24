@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DesignPartners_Strategy.Weapons;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,6 +9,6 @@ namespace DesignPartners_Strategy.Characters.HitBehavior
 {
     interface IHitBehavior
     {
-        void Hit(Character charakter);
+        void Hit(Character charakter, Hit weaponHit);
     }
 }
